@@ -32,7 +32,6 @@ ptyprocess==0.6.0
 rfc3986==1.4.0
 smmap==3.0.4
 sniffio==1.2.0
-
 pathlib2==2.3.5
 selenium==3.141.0
 xlwings==0.19.5
